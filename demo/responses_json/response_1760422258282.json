@@ -1,0 +1,88 @@
+{
+  "results": [
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "BILIRUBIN TOTAL",
+          "value": "0.44",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "TOTAL PROTEIN",
+          "value": "7.1",
+          "unit": "g/dL"
+        },
+        {
+          "name": "Umbilical cord",
+          "value": "4.8-8.8",
+          "unit": "Serum"
+        },
+        {
+          "name": "L Adults",
+          "value": "3.5-5.2",
+          "unit": "Serum"
+        },
+        {
+          "name": "days",
+          "value": "-14",
+          "unit": "years"
+        },
+        {
+          "name": "GLOBULIN",
+          "value": "3.2",
+          "unit": "g/dL"
+        },
+        {
+          "name": "L",
+          "value": "10-35",
+          "unit": "Serum"
+        },
+        {
+          "name": "L",
+          "value": "10-35",
+          "unit": "Serum"
+        },
+        {
+          "name": "GGT",
+          "value": "15",
+          "unit": "U/L"
+        },
+        {
+          "name": "ALKALINE PHOSPHATASE",
+          "value": "67",
+          "unit": "U/L"
+        },
+        {
+          "name": "Page",
+          "value": "1",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "kindly submit request with in",
+          "value": "2",
+          "unit": "days"
+        },
+        {
+          "name": "Contact customer",
+          "value": "9680396803",
+          "unit": "for"
+        },
+        {
+          "name": "Page",
+          "value": "2",
+          "unit": "Of"
+        }
+      ]
+    }
+  ]
+}

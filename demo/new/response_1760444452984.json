@@ -1,0 +1,500 @@
+{
+  "results": [
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "HYDERABAD",
+          "value": "500072",
+          "unit": "NO"
+        },
+        {
+          "name": "MEAN CORPUSCULAR HEMOGLOBIN",
+          "value": "30.7",
+          "unit": "Low"
+        },
+        {
+          "name": "EOSINOPHILS",
+          "value": "1-6",
+          "unit": "%"
+        },
+        {
+          "name": "Page",
+          "value": "1",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "HYDERABAD",
+          "value": "500072",
+          "unit": "ABHA"
+        },
+        {
+          "name": "ABSOLUTE BASOPH COUNT",
+          "value": "0",
+          "unit": "Low"
+        },
+        {
+          "name": "However after",
+          "value": "24-48",
+          "unit": "hrs"
+        },
+        {
+          "name": "WBC DIFFERENTIAL COUNT-The optimal threshold of",
+          "value": "3.3",
+          "unit": "for"
+        },
+        {
+          "name": "Page",
+          "value": "2",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "HYDERABAD",
+          "value": "500072",
+          "unit": "NO"
+        },
+        {
+          "name": "HBAIC",
+          "value": "11.1",
+          "unit": "High"
+        },
+        {
+          "name": "High",
+          "value": "116.0",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "Page",
+          "value": "3",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "HYDERABAD",
+          "value": "500072",
+          "unit": "NO"
+        },
+        {
+          "name": "falls about",
+          "value": "1.6",
+          "unit": "mEq/L"
+        },
+        {
+          "name": "for each",
+          "value": "100",
+          "unit": "placement"
+        },
+        {
+          "name": "Page",
+          "value": "4",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "HYDERABAD",
+          "value": "500072",
+          "unit": "NO"
+        },
+        {
+          "name": "Page",
+          "value": "5",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "HYDERABAD",
+          "value": "500072",
+          "unit": "NO"
+        },
+        {
+          "name": "typically",
+          "value": "3-4",
+          "unit": "times"
+        },
+        {
+          "name": "per year for type",
+          "value": "1",
+          "unit": "and"
+        },
+        {
+          "name": "poorly controlled type",
+          "value": "2",
+          "unit": "diabetic"
+        },
+        {
+          "name": "and",
+          "value": "2",
+          "unit": "times"
+        },
+        {
+          "name": "well-controlled type",
+          "value": "2",
+          "unit": "diabetic"
+        },
+        {
+          "name": "Fructosamine is recommended in these patients which indicates diabetes control",
+          "value": "15",
+          "unit": "days"
+        },
+        {
+          "name": "Page",
+          "value": "6",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "HYDERABAD",
+          "value": "500072",
+          "unit": "NO"
+        },
+        {
+          "name": "Type",
+          "value": "2",
+          "unit": "DM"
+        },
+        {
+          "name": "Page",
+          "value": "7",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "HYDERABAD",
+          "value": "500072",
+          "unit": "NO"
+        },
+        {
+          "name": "TRIGLYCERIDES",
+          "value": "177",
+          "unit": "High"
+        },
+        {
+          "name": "NON HDL CHOLESTEROL",
+          "value": "132",
+          "unit": "High"
+        },
+        {
+          "name": "Less than",
+          "value": "130",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "VERY LOW DENSITY LIPOPROTEIN",
+          "value": "35.4",
+          "unit": "High"
+        },
+        {
+          "name": "Page",
+          "value": "8",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "HYDERABAD",
+          "value": "500072",
+          "unit": "NO"
+        },
+        {
+          "name": "Page",
+          "value": "9",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "HYDERABAD",
+          "value": "500072",
+          "unit": "NO"
+        },
+        {
+          "name": "within",
+          "value": "1",
+          "unit": "year"
+        },
+        {
+          "name": "or",
+          "value": "50",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "Very High Risk",
+          "value": "1.",
+          "unit": "Established"
+        },
+        {
+          "name": "ASCVD",
+          "value": "2.",
+          "unit": "Diabetes"
+        },
+        {
+          "name": "with",
+          "value": "2",
+          "unit": "major"
+        },
+        {
+          "name": "High Risk",
+          "value": "1.",
+          "unit": "Three"
+        },
+        {
+          "name": "dl",
+          "value": "5.",
+          "unit": "Extreme"
+        },
+        {
+          "name": "dl",
+          "value": "8.",
+          "unit": "Non"
+        },
+        {
+          "name": "Moderate Risk",
+          "value": "2",
+          "unit": "major"
+        },
+        {
+          "name": "Low Risk",
+          "value": "0-1",
+          "unit": "major"
+        },
+        {
+          "name": "in females",
+          "value": "3.",
+          "unit": "Current"
+        },
+        {
+          "name": "Page",
+          "value": "10",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "HYDERABAD",
+          "value": "500072",
+          "unit": "NO"
+        },
+        {
+          "name": "After adequate non-pharmacological intervention for at least",
+          "value": "3",
+          "unit": "months"
+        },
+        {
+          "name": "Page",
+          "value": "11",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "HYDERABAD",
+          "value": "500072",
+          "unit": "NO"
+        },
+        {
+          "name": "Page",
+          "value": "12",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "HYDERABAD",
+          "value": "500072",
+          "unit": "NO"
+        },
+        {
+          "name": "Page",
+          "value": "13",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "HYDERABAD",
+          "value": "500072",
+          "unit": "NO"
+        },
+        {
+          "name": "Page",
+          "value": "14",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "HYDERABAD",
+          "value": "500072",
+          "unit": "NO"
+        },
+        {
+          "name": "Page",
+          "value": "15",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "HYDERABAD",
+          "value": "500072",
+          "unit": "NO"
+        },
+        {
+          "name": "Page",
+          "value": "16",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "HYDERABAD",
+          "value": "500072",
+          "unit": "NO"
+        },
+        {
+          "name": "HYDROXYVITAMIN",
+          "value": "21.29",
+          "unit": "Low"
+        },
+        {
+          "name": "-",
+          "value": "-",
+          "unit": "necessary"
+        },
+        {
+          "name": "To prevent biotin interference the patient should be atleast",
+          "value": "8",
+          "unit": "hours"
+        },
+        {
+          "name": "tHcy",
+          "value": "13",
+          "unit": "nmol/L"
+        },
+        {
+          "name": "hence recommended to repeat after",
+          "value": "3",
+          "unit": "months"
+        },
+        {
+          "name": "Page",
+          "value": "17",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "HYDERABAD",
+          "value": "500072",
+          "unit": "NO"
+        },
+        {
+          "name": "To prevent biotin interference the patient should be atleast",
+          "value": "8",
+          "unit": "hours"
+        },
+        {
+          "name": "Page",
+          "value": "18",
+          "unit": "Of"
+        }
+      ]
+    }
+  ]
+}

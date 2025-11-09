@@ -1,0 +1,21 @@
+{
+  "results": [
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "Pelee H salthoare",
+          "value": "5.",
+          "unit": "ov"
+        },
+        {
+          "name": "Glucose fasting",
+          "value": "152",
+          "unit": "mg/dL"
+        }
+      ]
+    }
+  ]
+}

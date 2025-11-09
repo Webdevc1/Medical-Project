@@ -1,0 +1,131 @@
+{
+  "results": [
+    {
+      "patient_details": {
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "RED BLOOD CELL COUNT",
+          "value": "4.44",
+          "unit": "Low"
+        },
+        {
+          "name": "EOSINOPHILS",
+          "value": "11",
+          "unit": "High"
+        },
+        {
+          "name": "Page",
+          "value": "1",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "EOSINOPHIL COUNT ABSOLUTE",
+          "value": "0.89",
+          "unit": "High"
+        },
+        {
+          "name": "However after",
+          "value": "24-48",
+          "unit": "hrs"
+        },
+        {
+          "name": "WBC DIFFERENTIAL COUNT-The optimal threshold of",
+          "value": "3.3",
+          "unit": "for"
+        },
+        {
+          "name": "When age",
+          "value": "49.5",
+          "unit": "years"
+        },
+        {
+          "name": "Page",
+          "value": "2",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "Page",
+          "value": "3",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "-",
+          "value": "1.0",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "-",
+          "value": "1.0",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "GLOBULIN RATIO",
+          "value": "1.0-2.1",
+          "unit": "RATIO"
+        },
+        {
+          "name": "SERUM",
+          "value": "5.46",
+          "unit": "High"
+        },
+        {
+          "name": "Page",
+          "value": "4",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "Type",
+          "value": "2",
+          "unit": "DM"
+        },
+        {
+          "name": "Page",
+          "value": "5",
+          "unit": "Of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "Page",
+          "value": "6",
+          "unit": "Of"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "results": [
+    {
+      "patient_details": {
+        "name": "Collection",
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "SODIUM",
+          "value": "121",
+          "unit": "mmol/L"
+        },
+        {
+          "name": "CHLORIDE",
+          "value": "84",
+          "unit": "mmol/L"
+        },
+        {
+          "name": "kindly submit request with in",
+          "value": "2",
+          "unit": "days"
+        },
+        {
+          "name": "Contact customer",
+          "value": "9680396803",
+          "unit": "for"
+        },
+        {
+          "name": "Page",
+          "value": "1",
+          "unit": "Of"
+        }
+      ]
+    }
+  ]
+}

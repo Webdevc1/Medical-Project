@@ -1,0 +1,345 @@
+{
+  "results": [
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "IMMUNOTURBIDIMETRY",
+          "value": "135",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "IMMUNOTURBIDIMETRY",
+          "value": "125",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "on",
+          "value": "06",
+          "unit": "Mar"
+        },
+        {
+          "name": "on",
+          "value": "07",
+          "unit": "Mar"
+        }
+      ]
+    },
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "IMMUNOTURBIDIMETRY",
+          "value": "6.8",
+          "unit": "mg/L"
+        },
+        {
+          "name": "Barcode",
+          "value": "17345412",
+          "unit": "Page"
+        }
+      ]
+    },
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "IMMUNOTURBIDIMETRY",
+          "value": "45.48",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "Adults",
+          "value": "30.0",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "Barcode",
+          "value": "17345412",
+          "unit": "Page"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "IRON PHOTOMETRY",
+          "value": "57.5",
+          "unit": "ug/dl"
+        },
+        {
+          "name": "PHOTOMETRY",
+          "value": "369",
+          "unit": "ug/dl"
+        },
+        {
+          "name": "TRANSFERRIN SATURATION CALCULATED",
+          "value": "15.58",
+          "unit": "%"
+        },
+        {
+          "name": "on",
+          "value": "06",
+          "unit": "Mar"
+        },
+        {
+          "name": "on",
+          "value": "07",
+          "unit": "Mar"
+        }
+      ]
+    },
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "TOTAL CHOLESTEROL PHOTOMETRY",
+          "value": "273",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "LDL CHOLESTEROL DIRECT PHOTOMETRY",
+          "value": "168",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "TRIGLYCERIDES PHOTOMETRY",
+          "value": "249",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "HDL CHOLESTEROL RATIO CALCULATED",
+          "value": "5.4",
+          "unit": "Ratio"
+        },
+        {
+          "name": "HDL RATIO CALCULATED",
+          "value": "3.3",
+          "unit": "Ratio"
+        },
+        {
+          "name": "VLDL CHOLESTEROL CALCULATED",
+          "value": "49.76",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "NON-HDL CHOLESTEROL CALCULATED",
+          "value": "222.3",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "BORDERLINE HIGH",
+          "value": "200-239",
+          "unit": "HIGH"
+        },
+        {
+          "name": "NEAR OPTIMAL",
+          "value": "100-129",
+          "unit": "BORDERLINE"
+        },
+        {
+          "name": "BORDERLINE HIGH",
+          "value": "130-159",
+          "unit": "HIGH"
+        },
+        {
+          "name": "Barcode",
+          "value": "17345412",
+          "unit": "Page"
+        }
+      ]
+    },
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "ALKALINE PHOSPHATASE PHOTOMETRY",
+          "value": "164.8",
+          "unit": "U/L"
+        },
+        {
+          "name": "TOTAL PHOTOMETRY",
+          "value": "0.36",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "BILIRUBIN -DIRECT PHOTOMETRY",
+          "value": "0.11",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "CALCULATED",
+          "value": "0.25",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "PHOTOMETRY",
+          "value": "16",
+          "unit": "U/I"
+        },
+        {
+          "name": "PHOTOMETRY",
+          "value": "22.4",
+          "unit": "U/I"
+        },
+        {
+          "name": "PHOTOMETRY",
+          "value": "13.4",
+          "unit": "U/I"
+        },
+        {
+          "name": "PROTEIN TOTAL PHOTOMETRY",
+          "value": "6.84",
+          "unit": "gm/dl"
+        },
+        {
+          "name": "GLOBULIN RATIO CALCULATED",
+          "value": "1.27",
+          "unit": "Ratio"
+        },
+        {
+          "name": "SERUM GLOBULIN PHOTOMETRY",
+          "value": "3.01",
+          "unit": "gm/dL"
+        },
+        {
+          "name": "Barcode",
+          "value": "17345412",
+          "unit": "Page"
+        }
+      ]
+    },
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "ILA",
+          "value": "112",
+          "unit": "ng/di"
+        },
+        {
+          "name": "LLA",
+          "value": "10.9",
+          "unit": "g/dl"
+        },
+        {
+          "name": "LLA",
+          "value": "5.32",
+          "unit": "IU/ml"
+        },
+        {
+          "name": "on",
+          "value": "06",
+          "unit": "Mar"
+        },
+        {
+          "name": "Page",
+          "value": "7",
+          "unit": "of"
+        }
+      ]
+    },
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "PHOTOMETRY",
+          "value": "12.42",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "CREATININE SERUM PHOTOMETRY",
+          "value": "0.72",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "CREATININE RATIO CALCULATED",
+          "value": "17.25",
+          "unit": "Ratio"
+        },
+        {
+          "name": "CALCIUM PHOTOMETRY",
+          "value": "10.69",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "URIC ACID PHOTOMETRY",
+          "value": "4.49",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "Barcode",
+          "value": "17345412",
+          "unit": "Page"
+        }
+      ]
+    },
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "CALCULATED",
+          "value": "88",
+          "unit": "mL/min/"
+        },
+        {
+          "name": "creatinine is measured for patients",
+          "value": "18",
+          "unit": "and"
+        },
+        {
+          "name": "Barcode",
+          "value": "17345412",
+          "unit": "Page"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "name": "The is declared by the client and recored by the personnel who collected the specimen"
+      },
+      "tests": [
+        {
+          "name": "Barcode",
+          "value": "-",
+          "unit": "This"
+        },
+        {
+          "name": "-",
+          "value": "-",
+          "unit": "or"
+        },
+        {
+          "name": "-",
+          "value": "-",
+          "unit": "was"
+        },
+        {
+          "name": "-",
+          "value": "-",
+          "unit": "our"
+        },
+        {
+          "name": "-",
+          "value": "-",
+          "unit": "our"
+        },
+        {
+          "name": "categories including",
+          "value": "217",
+          "unit": "food"
+        },
+        {
+          "name": "Page",
+          "value": "10",
+          "unit": "of"
+        }
+      ]
+    }
+  ]
+}

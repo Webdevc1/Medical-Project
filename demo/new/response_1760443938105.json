@@ -1,0 +1,36 @@
+{
+  "results": [
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "It is presumed that the test sample belongs to the patient",
+          "value": "5.",
+          "unit": "SRL"
+        },
+        {
+          "name": "Incorrect specimen type",
+          "value": "8.",
+          "unit": "Test"
+        },
+        {
+          "name": "Discrepancy between identification specimen",
+          "value": "9.",
+          "unit": "In"
+        },
+        {
+          "name": "within",
+          "value": "48",
+          "unit": "hours"
+        },
+        {
+          "name": "Page",
+          "value": "1",
+          "unit": "Of"
+        }
+      ]
+    }
+  ]
+}

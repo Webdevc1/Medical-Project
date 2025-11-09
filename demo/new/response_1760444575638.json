@@ -1,0 +1,36 @@
+{
+  "results": [
+    {
+      "patient_details": {
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "C- Glycated Haemoglobin",
+          "value": "9.9",
+          "unit": "%"
+        },
+        {
+          "name": "Excellent Control",
+          "value": "6",
+          "unit": "to"
+        },
+        {
+          "name": "Unsatisfactory Control",
+          "value": "8",
+          "unit": "to"
+        },
+        {
+          "name": "and Poor Control More than",
+          "value": "10",
+          "unit": "%"
+        },
+        {
+          "name": "Page",
+          "value": "1",
+          "unit": "of"
+        }
+      ]
+    }
+  ]
+}

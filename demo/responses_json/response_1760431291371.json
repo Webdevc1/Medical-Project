@@ -1,0 +1,297 @@
+{
+  "results": [
+    {
+      "patient_details": {
+        "name": "Results Units Bio",
+        "age": 48,
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "Age",
+          "value": "48",
+          "unit": "Years"
+        },
+        {
+          "name": "Creatinine",
+          "value": "0.90",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "GFR Estimated",
+          "value": "105",
+          "unit": "mL/min/"
+        },
+        {
+          "name": "Urea Nitrogen Blood",
+          "value": "8.87",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "GGTP",
+          "value": "65.0",
+          "unit": "U/L"
+        },
+        {
+          "name": "Bilirubin Total",
+          "value": "0.50",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "Bilirubin Indirect",
+          "value": "0.47",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "Total Protein",
+          "value": "8.10",
+          "unit": "g/dL"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "name": "Results Units Bio",
+        "age": 48,
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "Age",
+          "value": "48",
+          "unit": "Years"
+        },
+        {
+          "name": "Phosphorus",
+          "value": "3.05",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "Sodium",
+          "value": "131.30",
+          "unit": "mEq/L"
+        },
+        {
+          "name": "Potassium",
+          "value": "4.73",
+          "unit": "mEq/L"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "name": "Results Units Bio",
+        "age": 48,
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "Age",
+          "value": "48",
+          "unit": "Years"
+        },
+        {
+          "name": "Triglycerides",
+          "value": "220.00",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "HDL Cholesterol",
+          "value": "38.00",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "Calculated",
+          "value": "110.00",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "Calculated",
+          "value": "44.00",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "Non-HDL Cholesterol",
+          "value": "154",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "samples",
+          "value": "1",
+          "unit": "week"
+        },
+        {
+          "name": "consider therapy after an initial non-pharmacological intervention for at least",
+          "value": "3",
+          "unit": "months"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "name": "Results Units Bio",
+        "age": 48,
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "Age",
+          "value": "48",
+          "unit": "Years"
+        },
+        {
+          "name": "Glucose Fasting",
+          "value": "281.00",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "Cyanocobalamin",
+          "value": "147.10",
+          "unit": "pg/mL"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "name": "Results Units Bio",
+        "age": 48,
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "Age",
+          "value": "48",
+          "unit": "Years"
+        },
+        {
+          "name": "levels exceeding",
+          "value": "75",
+          "unit": "nmol/L"
+        },
+        {
+          "name": "Total",
+          "value": "6.17",
+          "unit": "ug/dL"
+        },
+        {
+          "name": "TSH",
+          "value": "41.26",
+          "unit": "ylU/mL"
+        },
+        {
+          "name": "minimum between",
+          "value": "6-10",
+          "unit": "The"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "name": "Results Units Bio",
+        "age": 48,
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "Age",
+          "value": "48",
+          "unit": "Years"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "name": "Bio",
+        "gender": "Male"
+      },
+      "tests": []
+    },
+    {
+      "patient_details": {
+        "name": "Bio",
+        "age": 48,
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "Age",
+          "value": "48",
+          "unit": "Years"
+        },
+        {
+          "name": "Hemoglobin",
+          "value": "14.60",
+          "unit": "g/dL"
+        },
+        {
+          "name": "MCHC",
+          "value": "33.30",
+          "unit": "g/dL"
+        },
+        {
+          "name": "Monocytes",
+          "value": "6.40",
+          "unit": "%"
+        },
+        {
+          "name": "Eosinophils",
+          "value": "4.60",
+          "unit": "%"
+        },
+        {
+          "name": "Basophils",
+          "value": "0.90",
+          "unit": "%"
+        },
+        {
+          "name": "Neutrophils",
+          "value": "3.09",
+          "unit": "thou/mm"
+        },
+        {
+          "name": "Lymphocytes",
+          "value": "3.08",
+          "unit": "thou/mm"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "name": "Bio",
+        "age": 48,
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "Age",
+          "value": "48",
+          "unit": "Years"
+        },
+        {
+          "name": "Basophils",
+          "value": "0.06",
+          "unit": "thou/mm"
+        },
+        {
+          "name": "Platelet Count",
+          "value": "147",
+          "unit": "thou/mm"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "name": "Bio",
+        "age": 48,
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "Age",
+          "value": "48",
+          "unit": "Years"
+        }
+      ]
+    }
+  ]
+}

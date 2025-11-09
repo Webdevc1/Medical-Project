@@ -1,0 +1,390 @@
+{
+  "results": [
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "IMMUNOTURBIDIMETRY",
+          "value": "2.9",
+          "unit": "mg/L"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "IMMUNOTURBIDIMETRY",
+          "value": "158",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "IMMUNOTURBIDIMETRY",
+          "value": "89",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "on",
+          "value": "04",
+          "unit": "Mar"
+        }
+      ]
+    },
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "A",
+          "value": "31.2",
+          "unit": "ng/ml"
+        },
+        {
+          "name": "IA",
+          "value": "2000",
+          "unit": "pg/ml"
+        },
+        {
+          "name": "on",
+          "value": "04",
+          "unit": "Mar"
+        }
+      ]
+    },
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "Adults",
+          "value": "30.0",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "on",
+          "value": "05",
+          "unit": "Mar"
+        },
+        {
+          "name": "Page",
+          "value": "4",
+          "unit": "of"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Female"
+      },
+      "tests": [
+        {
+          "name": "TESTOSTERONE",
+          "value": "15.07",
+          "unit": "ng/dL"
+        }
+      ]
+    },
+    {
+      "patient_details": {
+        "gender": "Male"
+      },
+      "tests": [
+        {
+          "name": "IRON PHOTOMETRY",
+          "value": "45.1",
+          "unit": "ug/dl"
+        },
+        {
+          "name": "PHOTOMETRY",
+          "value": "463",
+          "unit": "Hg/dl"
+        },
+        {
+          "name": "TRANSFERRIN SATURATION CALCULATED",
+          "value": "9.74",
+          "unit": "%"
+        },
+        {
+          "name": "on",
+          "value": "04",
+          "unit": "Mar"
+        }
+      ]
+    },
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "TOTAL CHOLESTEROL PHOTOMETRY",
+          "value": "199",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "CHOLESTEROL DIRECT PHOTOMETRY",
+          "value": "62",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "LDL CHOLESTEROL DIRECT PHOTOMETRY",
+          "value": "115",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "TRIGLYCERIDES PHOTOMETRY",
+          "value": "116",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "HDL CHOLESTEROL RATIO CALCULATED",
+          "value": "3.2",
+          "unit": "Ratio"
+        },
+        {
+          "name": "HDL RATIO CALCULATED",
+          "value": "1.9",
+          "unit": "Ratio"
+        },
+        {
+          "name": "VLDL CHOLESTEROL CALCULATED",
+          "value": "23.28",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "NON-HDL CHOLESTEROL CALCULATED",
+          "value": "136.8",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "BORDERLINE HIGH",
+          "value": "200-239",
+          "unit": "HIGH"
+        },
+        {
+          "name": "NEAR OPTIMAL",
+          "value": "100-129",
+          "unit": "BORDERLINE"
+        },
+        {
+          "name": "BORDERLINE HIGH",
+          "value": "130-159",
+          "unit": "HIGH"
+        }
+      ]
+    },
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "ALKALINE PHOSPHATASE PHOTOMETRY",
+          "value": "91.6",
+          "unit": "U/L"
+        },
+        {
+          "name": "TOTAL PHOTOMETRY",
+          "value": "0.36",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "BILIRUBIN -DIRECT PHOTOMETRY",
+          "value": "0.11",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "CALCULATED",
+          "value": "0.25",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "PHOTOMETRY",
+          "value": "14.4",
+          "unit": "U/I"
+        },
+        {
+          "name": "PHOTOMETRY",
+          "value": "26.5",
+          "unit": "U/I"
+        },
+        {
+          "name": "PHOTOMETRY",
+          "value": "17.2",
+          "unit": "U/I"
+        },
+        {
+          "name": "PROTEIN TOTAL PHOTOMETRY",
+          "value": "7.33",
+          "unit": "gm/dl"
+        },
+        {
+          "name": "SERUM GLOBULIN PHOTOMETRY",
+          "value": "3.17",
+          "unit": "gm/dL"
+        },
+        {
+          "name": "Page",
+          "value": "8",
+          "unit": "of"
+        }
+      ]
+    },
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "ILA",
+          "value": "145",
+          "unit": "ng/di"
+        },
+        {
+          "name": "ILA",
+          "value": "11",
+          "unit": "g/dl"
+        },
+        {
+          "name": "ILA",
+          "value": "3.65",
+          "unit": "IU/ml"
+        },
+        {
+          "name": "Page",
+          "value": "9",
+          "unit": "of"
+        }
+      ]
+    },
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "PHOTOMETRY",
+          "value": "10.5",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "CREATININE SERUM PHOTOMETRY",
+          "value": "0.64",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "CREATININE RATIO CALCULATED",
+          "value": "16.41",
+          "unit": "Ratio"
+        },
+        {
+          "name": "CALCIUM PHOTOMETRY",
+          "value": "9.45",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "URIC ACID PHOTOMETRY",
+          "value": "4.01",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "Page",
+          "value": "10",
+          "unit": "of"
+        }
+      ]
+    },
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "creatinine is measured for patients",
+          "value": "18",
+          "unit": "and"
+        },
+        {
+          "name": "Page",
+          "value": "11",
+          "unit": "of"
+        }
+      ]
+    },
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "FASTING BLOOD SUGAR PHOTOMETRY",
+          "value": "138",
+          "unit": "mg/dL"
+        },
+        {
+          "name": "on",
+          "value": "105",
+          "unit": "Mar"
+        },
+        {
+          "name": "of",
+          "value": "15",
+          "unit": "Barcode"
+        }
+      ]
+    },
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "C",
+          "value": "7.7",
+          "unit": "%"
+        },
+        {
+          "name": "on",
+          "value": "04",
+          "unit": "Mar"
+        }
+      ]
+    },
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "TOTAL LEUCOCYTES COUNT",
+          "value": "7.34",
+          "unit": "X"
+        },
+        {
+          "name": "LYMPHOCYTE PERCENTAGE",
+          "value": "27",
+          "unit": "%"
+        },
+        {
+          "name": "NEUTROPHILS ABSOLUTE COUNT",
+          "value": "4.7",
+          "unit": "X"
+        },
+        {
+          "name": "LYMPHOCYTES ABSOLUTE COUNT",
+          "value": "1.98",
+          "unit": "X"
+        },
+        {
+          "name": "MONOCYTES ABSOLUTE COUNT",
+          "value": "0.26",
+          "unit": "X"
+        },
+        {
+          "name": "BASOPHILS ABSOLUTE COUNT",
+          "value": "0.07",
+          "unit": "X"
+        },
+        {
+          "name": "EOSINOPHILS ABSOLUTE COUNT",
+          "value": "0.3",
+          "unit": "X"
+        },
+        {
+          "name": "TOTAL RBC",
+          "value": "4.55",
+          "unit": "X"
+        },
+        {
+          "name": "PLATELET COUNT",
+          "value": "378",
+          "unit": "X"
+        }
+      ]
+    }
+  ]
+}

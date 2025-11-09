@@ -1,0 +1,49 @@
+{
+  "results": [
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "VLDL CHOLESTEROL CALCULATED",
+          "value": "19.66",
+          "unit": "mg/dl"
+        },
+        {
+          "name": "HDL CHOLESTEROL RATIO CALCULATED",
+          "value": "3.1",
+          "unit": "Ratio"
+        },
+        {
+          "name": "BORDERLINE HIGH",
+          "value": "200-239",
+          "unit": "HIGH"
+        },
+        {
+          "name": "NEAR OPTIMAL",
+          "value": "100-129",
+          "unit": "BORDERLINE"
+        },
+        {
+          "name": "HIGH",
+          "value": "160-189",
+          "unit": "VERY"
+        },
+        {
+          "name": "Page",
+          "value": "1",
+          "unit": "of"
+        }
+      ]
+    },
+    {
+      "patient_details": {},
+      "tests": [
+        {
+          "name": "C",
+          "value": "7.6",
+          "unit": "%"
+        }
+      ]
+    }
+  ]
+}
